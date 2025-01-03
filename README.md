@@ -6,7 +6,7 @@ ScarletTable is a restaurant management web application designed to streamline f
 The purpose of ScarletTable is to provide an intuitive and user-friendly interface for managing restaurant orders and enhancing the customer experience. It is tailored for both restaurant owners and customers to simplify the food ordering process.
 
 ## Live URL
-Visit the live application: 
+Visit the live application: https://scarlettable-5165e.web.app or https://scarlettable-5165e.firebaseapp.com/
 
 ## Key Features
 - **User Authentication**: Secure login and signup using Firebase Authentication.
